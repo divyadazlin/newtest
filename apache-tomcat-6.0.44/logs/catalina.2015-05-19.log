@@ -1,0 +1,20 @@
+May 19, 2015 12:23:05 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Fingerprint cleanup
+May 19, 2015 12:23:05 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Fingerprint cleanup. 0 ms
+May 19, 2015 3:11:37 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Workspace clean-up
+May 19, 2015 3:11:37 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Workspace clean-up. 31 ms
+May 19, 2015 1:13:10 PM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Download metadata
+May 19, 2015 1:13:26 PM hudson.model.UpdateSite updateData
+INFO: Obtained the latest update center data file for UpdateSource default
+May 19, 2015 1:13:28 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+May 19, 2015 1:13:30 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+May 19, 2015 1:13:39 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tools.JDKInstaller
+May 19, 2015 1:13:39 PM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Download metadata. 28,671 ms
